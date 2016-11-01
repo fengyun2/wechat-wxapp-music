@@ -1,0 +1,16 @@
+.search-area {
+  background: #f4f4f4;
+  padding: 1rem .5rem;
+}
+.search-area input {
+  background: #fff;
+  border-radius: 3px;
+  line-height: 2rem;
+  line-height: 2rem;
+  margin-bottom: .5rem;
+  padding-left: .5rem;
+  font-size: .8rem;
+}
+.search-area button {
+  width: 100%;
+}

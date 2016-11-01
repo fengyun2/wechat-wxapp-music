@@ -1,0 +1,16 @@
+<import src="../../common/tab.wxml" />
+
+<template name="rankitem">
+  <view class="rank-item">
+    <navigator url="/pages/online/list/index" class="text"></navigator>
+    <view class="arrow"></view>
+  </view>
+</template>
+
+<!--index.wxml-->
+<view class="container">
+  <template is="tab" data="{{list: tab}}" />
+  <view class="rank-list">
+    <template is="rankitem"></template>
+  </view>
+</view>
