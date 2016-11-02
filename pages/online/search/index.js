@@ -13,19 +13,19 @@ Page({
     }],
     list: [
       {
-        label: '他一定很爱你',
+        title: '他一定很爱你',
         author: '阿杜'
       },
       {
-        label: '天黑',
+        title: '天黑',
         author: '阿杜'
       },
       {
-        label: '他和她的故事',
+        title: '他和她的故事',
         author: '徐良'
       },
       {
-        label: '不在犹豫',
+        title: '不在犹豫',
         author: '黄家驹'
       }
     ]
