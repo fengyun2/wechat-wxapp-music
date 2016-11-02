@@ -2,6 +2,7 @@
   "pages": [
     "pages/online/index/index",
     "pages/online/search/index",
+    "pages/local/play",
     "pages/index/index",
     "pages/logs/logs"
   ],
