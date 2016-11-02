@@ -11,6 +11,24 @@ Page({
         url: '/pages/online/search/index',
         active: false
       }
+    ],
+    ranks: [
+      {
+        text: '新歌榜',
+        type: 'new',
+      },
+      {
+        text: '热歌榜',
+        type: 'hot'
+      },
+      {
+        text: '摇滚榜',
+        type: 'row'
+      },
+      {
+        text: '流行榜',
+        type: 'popular'
+      }
     ]
   },
   onLoad: function (options) {
